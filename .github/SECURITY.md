@@ -11,7 +11,7 @@
 
 ## Reporting a Vulnerability
 
-If you have identified a security vulnerability in system or product please email `example@hello.com` with your findings. We strongly recommend using our `PGP key` to prevent this information from falling into the wrong hands.
+If you have identified a security vulnerability in system or product please email `hello@romantsegelskyi.com` with your findings. We strongly recommend using our `PGP key` to prevent this information from falling into the wrong hands.
 
 ### Disclosure Policy
 
