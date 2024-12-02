@@ -8,9 +8,7 @@ A curated list of awesome Bluesky tools, apps, scripts, etc.
 
 This is a work in progress, so if you know of Bluesky tools that are not mentioned here, please do a PR!
 
-## Contents
 - [Awesome Bluesky Tools 🦋](#awesome-bluesky-tools-)
-  - [Contents](#contents)
   - [Alternative Clients](#alternative-clients)
   - [Posting](#posting)
   - [Analytics \& Stats](#analytics--stats)
@@ -24,6 +22,7 @@ This is a work in progress, so if you know of Bluesky tools that are not mention
   - [Contributing   ](#contributing---)
   - [License   ](#license---)
 
+  
 ## Alternative Clients
 - ⭐️ [Deck.blue](https://deck.blue/) - Web client, similar to TweetDeck/X-Pro.
 - [Graysky](https://graysky.app/) - Mobile app client.
