@@ -34,11 +34,12 @@ This is a work in progress, so if you know of Bluesky tools that are not mention
 
 ## Posting
 - ⭐️ [Typefully](https://typefully.com/blog/what-is-bluesky) - Post scheduling with insights.
+- ⭐️ [Fedica](https://fedica.com) - Post scheduling with insights.
+- ⭐️ [Buffer](https://buffer.com/bluesky) - Popular scheduling app.
 - [Croissant](https://croissantapp.com/) - Mobile app for scheduling posts.
 - [Bluesky Thread Composer](https://bluesky-thread-composer.pages.dev/) - Easy thread composer and post splitter.
 - [Openvibe](https://openvibe.social/) - Mobile app for crossposting across Bluesky, Mastodon, Threads, and Nostr.
 - [Nootti](https://nootti.com/) - Mobile app for crossposting.
-- [Buffer](https://buffer.com/bluesky) - Popular scheduling app.
 
 ## Analytics & Stats
 - ⭐️ [Blueview](https://blueview.app/) - Detailed personal analytics, with OAuth integration.
