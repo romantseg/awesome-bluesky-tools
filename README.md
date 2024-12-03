@@ -73,6 +73,7 @@ This is a work in progress, so if you know of Bluesky tools that are not mention
 - [Atprototools](https://github.com/ianklatzco/atprototools) - Comprehensive library for Bluesky API.
 
 ## Miscellaneous
+- [How Tall Is](https://howtall.is/jbrooks.uk) - fun little project to attempt to guess how tall the user is.
 - [Bridgy Fed](https://fed.brid.gy/) - Connects Bluesky identities to Mastodon and other ActivityPub platforms.
 - [SmokeSignal](https://smokesignal.events/) - On-chain event hosting and discovery.
 - [BlueBots Done Quick](https://bluebotsdonequick.com/) - Automated bot creation.
