@@ -24,13 +24,13 @@ This is a work in progress, so if you know of Bluesky tools that are not mention
 
   
 ## Alternative Clients
-- ⭐️ [Deck.blue](https://deck.blue/) - Web client, similar to TweetDeck/X-Pro.
-- [Graysky](https://graysky.app/) - Mobile app client.
-- [Klearsky](https://klearsky.pages.dev/) - Minimal web client.
-- [Ouranos](https://useouranos.app/) - Basic web client.
-- [Skeets](https://www.skeetsapp.com/) - Mobile app.
-- [DarkSky](https://apps.microsoft.com/detail/9np22dtfscts?hl=en-us&gl=US) - Windows client for Bluesky.
-- [Bluesky Navigator](https://github.com/tonycpsu/bluesky-navigator) - Userscript for enhancing the native web interface with keyboard shortcuts, read-post tracking, and more.
+- ⭐️ **[Deck.blue](https://deck.blue/)**: Web client similar to TweetDeck, ideal for those who like managing multiple feeds side-by-side. It offers customizable columns, post scheduling, and multi-account support.
+- **[Graysky](https://graysky.app/)**: Mobile app for iOS and Android. It enhances the Bluesky experience with features like GIF support, inline translations, and hashtag functionality. Great for users who want a robust, all-in-one mobile solution.
+- **[Klearsky](https://klearsky.pages.dev/)**: Minimalist web client. Simple, distraction-free interface for those who want just the basics without any frills.
+- **[Ouranos](https://useouranos.app/)**: Lightweight web client focusing on easy navigation and simplicity. Suitable for users looking for a no-fuss approach.
+- **[Skeets](https://www.skeetsapp.com/)**: iOS app providing a native Apple experience. Focuses on accessibility and continuous improvements for a smoother user experience.
+- **[DarkSky](https://apps.microsoft.com/detail/9np22dtfscts?hl=en-us&gl=US)**: Windows client that integrates seamlessly with the desktop. Good for users who prefer a native PC app for Bluesky.
+
 
 ## Posting
 - ⭐️ [Typefully](https://typefully.com/blog/what-is-bluesky) - Post scheduling with insights.
@@ -74,6 +74,7 @@ This is a work in progress, so if you know of Bluesky tools that are not mention
 - [Atprototools](https://github.com/ianklatzco/atprototools) - Comprehensive library for Bluesky API.
 
 ## Miscellaneous
+- [Bluesky Navigator](https://github.com/tonycpsu/bluesky-navigator) - Userscript for enhancing the native web interface with keyboard shortcuts, read-post tracking, and more.
 - [How Tall Is](https://howtall.is/jbrooks.uk) - fun little project to attempt to guess how tall the user is.
 - [Bridgy Fed](https://fed.brid.gy/) - Connects Bluesky identities to Mastodon and other ActivityPub platforms.
 - [SmokeSignal](https://smokesignal.events/) - On-chain event hosting and discovery.
