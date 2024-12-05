@@ -33,23 +33,24 @@ This is a work in progress, so if you know of Bluesky tools that are not mention
 
 
 ## Posting
-- ⭐️ [Typefully](https://typefully.com/blog/what-is-bluesky) - Post scheduling with insights.
-- ⭐️ [Fedica](https://fedica.com) - Post scheduling with insights.
-- ⭐️ [Buffer](https://buffer.com/bluesky) - Popular scheduling app.
-- ⭐️ [post bridge](https://www.post-bridge.com/) - Post scheduling with insights.
-- [Croissant](https://croissantapp.com/) - Mobile app for scheduling posts.
-- [Bluesky Thread Composer](https://bluesky-thread-composer.pages.dev/) - Easy thread composer and post splitter.
-- [Openvibe](https://openvibe.social/) - Mobile app for crossposting across Bluesky, Mastodon, Threads, and Nostr.
-- [Nootti](https://nootti.com/) - Mobile app for crossposting.
+- ⭐️ **[Typefully](https://typefully.com/)**: Typefully is a comprehensive platform designed to enhance your social media presence across multiple platforms, including Bluesky. It offers features such as post scheduling, performance analytics, and an intuitive interface to optimize your content strategy. With Typefully, you can queue posts with a single click, schedule them for optimal times, and utilize performance analytics to refine your approach.
+- ⭐️ **[Fedica](https://fedica.com/)**: Formerly known as Tweepsmap, Fedica provides AI-driven analytics and publishing tools to build a thriving social media community. It supports multiple platforms, including Bluesky, and offers features like advanced scheduling, community analysis, and social listening. Fedica's unique algorithms help discover audiences and build relationships, making it a valuable tool for social media management.
+- ⭐️ **[Buffer](https://buffer.com/bluesky)**: Buffer is a popular social media scheduling tool that now supports Bluesky. It allows users to plan, collaborate, and publish content across multiple platforms, including Bluesky, X (Twitter), Threads, Mastodon, LinkedIn, and more. Buffer's features include content scheduling, cross-posting, and analytics to help build an engaged community.
+- ⭐️ **[post bridge](https://www.post-bridge.com/)**: Post bridge is a social media scheduling tool that enables users to post and schedule content across multiple platforms from a single interface. It supports major platforms, including Bluesky, and offers features like instant posting, post scheduling, unlimited connections, and content management. Post bridge aims to save time and money for creators, solopreneurs, and small businesses.
+- **[Croissant](https://croissantapp.com/)**: Croissant is a mobile app designed for cross-posting to Bluesky, Mastodon, and Threads. It provides a seamless experience for managing content across these platforms, allowing users to post simultaneously and efficiently. Croissant is available for download on the App Store.
+- **[Openvibe](https://openvibe.social/)**: Openvibe is a mobile app that consolidates multiple decentralized social networks into a single timeline. It supports platforms like Bluesky, Mastodon, Nostr, and Threads, enabling users to cross-post content and manage their social presence from one place. Openvibe aims to unify the social media experience across different networks.
+- **[Nootti](https://nootti.com/)**: Nootti is an iOS app that facilitates posting to Bluesky, Mastodon, and Nostr. It allows users to post to multiple accounts simultaneously, customize notes for each platform, attach images and videos, and supports features like drag-and-drop links, text, and images. Nootti aims to simplify the posting process across multiple platforms.
+- **[Bluesky Thread Composer](https://bluesky-thread-composer.pages.dev/)**: Bluesky Thread Composer is a tool designed to simplify the creation of threaded posts on Bluesky. It allows users to compose and split long posts into threads easily, enhancing the readability and engagement of content on the platform.
+
 
 ## Analytics & Stats
-- ⭐️ [Blueview](https://blueview.app/) - Detailed personal analytics, with OAuth integration.
-- [BSkyCharts](https://bskycharts.edavis.dev/) - Visual charts for Bluesky activity.
-- [Bluesky Meter](https://blueskymeter.com/) - Simple profile stats.
-- [SkyZoo](https://skyzoo.blue/stats) - Activity stats visualized through animals.
-- [Bluesky Counter](https://blueskycounter.com/marckohlbrugge.com?via=blueskydirectory) - Follower growth tracker.
-- [Realtime.blue](https://realtime.blue/) - Metrics for other users.
-- [Bluesky Insights](https://bluesky-insights.dwagentai.com/) - User dashboard with activity insights.
+- ⭐️ [Blueview](https://blueview.app/) - BlueView offers comprehensive analytics for your Bluesky social presence, providing detailed insights into your engagement and reach. With OAuth integration, it ensures secure access to your data, enabling you to monitor your performance effectively.
+- [BSkyCharts](https://bskycharts.edavis.dev/) - BSkyCharts presents visual representations of Bluesky network activity, including user engagement rates and content creation trends. It offers charts that display the rate of record creation and the number of active accounts over various time frames, aiding in understanding network dynamics.
+- [Bluesky Meter](https://blueskymeter.com/) - Bluesky Meter provides real-time analytics for any Bluesky user without requiring registration. By entering a handle, users can access insights into engagement metrics, content reach, and network growth, facilitating data-driven decisions to optimize their Bluesky strategy.
+- [SkyZoo](https://skyzoo.blue/stats) - SkyZoo assigns users a Bluesky animal based on their recent activity, offering a unique and engaging way to visualize user behavior. By entering your handle, you can discover your corresponding animal representation, adding a fun element to activity tracking.
+- [Bluesky Counter](https://blueskycounter.com/marckohlbrugge.com?via=blueskydirectory) - Bluesky Counter allows users to track their follower growth over time. By connecting your Bluesky account, you can view detailed statistics on daily new followers, total growth, and more, enabling effective monitoring of your social media presence.
+- [Realtime.blue](https://realtime.blue/) - Realtime.blue offers live metrics for Bluesky profiles, including follower counts, posting activity, and following lists. It features auto-refresh intervals and celebratory animations for milestones, providing an interactive way to monitor your Bluesky account in real-time.
+- [Bluesky Insights](https://bluesky-insights.dwagentai.com/) - Bluesky Insights delivers a user dashboard with activity insights, tracking follower growth, engagement metrics, and milestones. It also offers features like Monthly Recurring Revenue tracking and smart suggestions, all without requiring signup or data storage, ensuring privacy and ease of use.
 
 ## Discovery
 - ⭐️ [Starter Packs](https://www.starterpacks.net/) - Curated lists for exploration.
@@ -68,6 +69,7 @@ This is a work in progress, so if you know of Bluesky tools that are not mention
 - ⭐️ [Blockenheimer](https://blockenheimer.click/) - Mass blocking tool for posts, likes, or reposts.
 - [Cleanup Tool](https://bsky.jazco.dev/cleanup) - Remove old posts and manage clutter.
 - [Unfollow Tool](https://b.cam.fyi/unfollow) - Unfollow accounts Tinder-style.
+- [Unfollow Blue](https://unfollow.blue/?ref=realtime.blue) - Unfollow.blue gives you the tools to track followers and unfollowers in real-time, manage your Bluesky connections with ease, and take complete control of your social network like never before.
 - [Quiet Posters](https://mary-ext.codeberg.page/bluesky-quiet-posters/) - Spot inactive follows.
 
 ## Development & SDKs
