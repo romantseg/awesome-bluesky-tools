@@ -56,6 +56,7 @@ This is a work in progress, so if you know of Bluesky tools that are not mention
 - ⭐️ [Starter Packs](https://www.starterpacks.net/) - Curated lists for exploration.
 - ⭐️ [BStat](https://bstat.app/) - Leaderboards of most-followed accounts.
 - [GoodFeeds](https://goodfeeds.co/all) - Directory of quality feeds.
+- [Bluesky Trends and Insights](https://blue.facts.dev) - Top lists of most followed users, trending & fast growing user accounts
 
 ## Onboarding & Migration
 - ⭐️ [SkyFollowerBridge](https://chromewebstore.google.com/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko) - Chrome extension for mirroring follows from other platforms.
