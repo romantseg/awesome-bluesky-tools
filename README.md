@@ -71,6 +71,7 @@ This is a work in progress, so if you know of Bluesky tools that are not mention
 - [Unfollow Tool](https://b.cam.fyi/unfollow) - Unfollow accounts Tinder-style.
 - [Unfollow Blue](https://unfollow.blue/?ref=realtime.blue) - Unfollow.blue gives you the tools to track followers and unfollowers in real-time, manage your Bluesky connections with ease, and take complete control of your social network like never before.
 - [Quiet Posters](https://mary-ext.codeberg.page/bluesky-quiet-posters/) - Spot inactive follows.
+- [Social Media Bot](https://www.pelock.com/products/social-media-bot) - Growbot automation tool, schedule likes/follows/reposts. Browser extension. Available in 45 languages.
 
 ## Development & SDKs
 - [Atprototools](https://github.com/ianklatzco/atprototools) - Comprehensive library for Bluesky API.
